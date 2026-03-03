@@ -1,30 +1,30 @@
-﻿#  Code is Law: The Architecture of Trust
+﻿# ⚖️ Code is Law: The Architecture of Trust
 
-> 「法は解釈を必要とするが、コードは実行を求める。」
+> "Law requires interpretation, but code demands execution."
 
-現実に存在する法律は、時として曖昧であり、運用する人間の主観や力関係に左右されます。しかし、デジタル空間における「コード」は、書かれた通りに、誰に対しても平等に、そして冷徹に実行されます。
+Laws in the real world are often ambiguous, swayed by human subjectivity and power dynamics. But in the digital realm, **code** executes exactly as written — equally, impartially, and relentlessly — for everyone.
 
-このプロジェクトは、**「人間の恣意性を排除し、論理（ロジック）によって秩序を構築する」** という思想に基づいています。
-
----
-
-##  三つの原則 (The Three Pillars)
-
-### 1. 不変性と透明性 (Immutability & Transparency)
-ルールはすべて公開されたソースコードの中に記述されます。ブラックボックス化された意思決定は存在しません。何が起こるかは、コードを読めばすべて予見可能です。
-
-### 2. 実行の強制力 (Enforced Execution)
-「約束」は言葉ではなく、アルゴリズムによって担保されます。条件が満たされれば、システムは誰の許可も待たずに結果を導き出します。
-
-### 3. 境界の再定義 (Redefining Boundaries)
-サーバー構成（Infrastructure as Code）、認証ロジック、あるいはゲーム内経済のルール。それらすべては、単なる設定ファイルではなく、その世界における「憲法」です。
+This project is built on the philosophy of **"Eliminating human arbitrariness and constructing order through logic."**
 
 ---
 
-##  責任の所在 (The Weight of Code)
+## 🛡️ The Three Pillars
 
-「Code is Law」の世界では、**バグは「法の欠陥」** を意味します。
-私たちは、単なる機能不全を修正するのではなく、不当な判決を下さないためにコードを磨き続けます。
+### 1. Immutability & Transparency
+All rules are written in publicly available source code. There are no black-boxed decisions. Everything that will happen is predictable — just read the code.
+
+### 2. Enforced Execution
+Promises are guaranteed not by words, but by algorithms. When conditions are met, the system produces results without waiting for anyone's permission.
+
+### 3. Redefining Boundaries
+Server configurations (Infrastructure as Code), authentication logic, in-game economic rules — these are not mere configuration files. They are the **constitution** of their respective worlds.
+
+---
+
+## ⚠️ The Weight of Code
+
+In the world of "Code is Law," **a bug is a flaw in the law itself.**
+We don't simply fix malfunctions — we refine code to ensure it never delivers an unjust verdict.
 
 ---
 
