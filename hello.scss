@@ -1,0 +1,6 @@
+$body-color: green;
+
+body::before {
+  content: "Hello, World!";
+  color: $body-color;
+}

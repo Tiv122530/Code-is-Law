@@ -1,0 +1,3 @@
+var void main() {
+    void io.stdout().write("Hello, World!\n") catch {};
+}

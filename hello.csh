@@ -1,0 +1,2 @@
+#!/usr/bin/env csh
+echo "Hello, World!"
